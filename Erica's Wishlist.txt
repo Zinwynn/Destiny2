@@ -1,7 +1,7 @@
 title:Erica's Wishlist
 
-// Parabellum - PVE Orb Print & Pickup (pve)
-//notes: PVE Orb Print & Pickup tags:pve
+// Parabellum - Parabellum (pve)
+//notes: Zin's Rolls - Print & shoot orbs tags:pve
 dimwishlist:item=3926811686&perks=839105230,3230963543,3700496672,243981275
 dimwishlist:item=3926811686&perks=839105230,3230963543,3700496672,984655331
 dimwishlist:item=3926811686&perks=839105230,3230963543,2840833776,243981275
