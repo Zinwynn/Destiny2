@@ -1,7 +1,7 @@
 title:Erica's Wishlist
 
-// Adamantite (Adept) - Zin's Rolls (pve)
-//notes: tags:pve
+// Adamantite (Adept) - Adamantite (Adept) (pve)
+//notes: Zin's Rolls tags:pve
 dimwishlist:item=601574723&perks=839105230,3142289711,692399809,2298656195
 dimwishlist:item=601574723&perks=839105230,3142289711,692399809,960997401
 dimwishlist:item=601574723&perks=839105230,3142289711,692399809,243981275
@@ -1028,8 +1028,8 @@ dimwishlist:item=601574723&perks=1482024992,3230963543,536173722,984655331
 dimwishlist:item=601574723&perks=1482024992,3230963543,536173722,3007133316
 
 
-// Adamantite - Zin's Rolls (pve)
-//notes: tags:pve
+// Adamantite - Adamantite (pve)
+//notes: Zin's Rolls tags:pve
 dimwishlist:item=2987244302&perks=839105230,3142289711,692399809,2298656195
 dimwishlist:item=2987244302&perks=839105230,3142289711,692399809,960997401
 dimwishlist:item=2987244302&perks=839105230,3142289711,692399809,243981275
@@ -2056,8 +2056,8 @@ dimwishlist:item=2987244302&perks=1482024992,3230963543,536173722,984655331
 dimwishlist:item=2987244302&perks=1482024992,3230963543,536173722,3007133316
 
 
-// Adamantite - Zin's Rolls (pve)
-//notes: tags:pve
+// Adamantite - Adamantite (pve)
+//notes: Zin's Rolls tags:pve
 dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,2298656195
 dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,960997401
 dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,243981275
@@ -3084,8 +3084,8 @@ dimwishlist:item=3229982889&perks=1482024992,3230963543,536173722,984655331
 dimwishlist:item=3229982889&perks=1482024992,3230963543,536173722,3007133316
 
 
-// Adamantite (Adept) - Zin's Rolls (pve)
-//notes: tags:pve
+// Adamantite (Adept) - Adamantite (pve)
+//notes: Zin's Rolls tags:pve
 dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,2298656195
 dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,960997401
 dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,243981275
@@ -4112,8 +4112,8 @@ dimwishlist:item=3485029080&perks=1482024992,3230963543,536173722,984655331
 dimwishlist:item=3485029080&perks=1482024992,3230963543,536173722,3007133316
 
 
-// Parabellum - Zin's Rolls (pve)
-//notes: Print & shoot orbs tags:pve
+// Parabellum - Parabellum (pve)
+//notes: Zin's Rolls - Print & shoot orbs tags:pve
 dimwishlist:item=3926811686&perks=839105230,3142289711,3700496672,243981275
 dimwishlist:item=3926811686&perks=839105230,3142289711,3700496672,984655331
 dimwishlist:item=3926811686&perks=839105230,3142289711,2840833776,243981275
